@@ -1,0 +1,129 @@
+body{background-color: #f4f4f4;
+	font-family:arial;
+    color: #555555;
+    margin: 0px;
+    p 
+}
+
+h1{background-color: #2B1B17;
+	font-family: fantasy;
+	font-size: 72px;
+	margin: 0px;
+	color:#f4f4f4;
+	padding-left: 10px;
+	height: 1em;
+}
+
+.body{
+	padding: 10px;
+	margin: 10px;
+}
+
+#img{
+	position: relative;
+	float: right;
+	border: 3px #4E4848 solid;
+	width: 20%;
+	margin:10px 10px;
+	z-index: 1;
+}
+
+.body h3{
+	font-family: fantasy;
+	margin: 0px;
+	color:black;
+	
+}
+
+section{
+	position: relative;
+	float: bottom;
+	top:143px;
+}
+
+#scaletta{
+	width: 70%;
+	height: 40%;
+	margin-top: 100px;
+	margin-left: 30px;
+	padding: 5px;
+	color: black;
+	font-style: italic;
+	font-family: universe;
+	font-weight: bold;
+	font-size: 36px;
+	overflow: auto;
+
+}
+
+#contatti{
+	position: relative;
+	float: right;
+	right: 4px;
+	bottom:30px;
+	line-height: 2em;
+	font-weight: bold;
+	border: 2px black solid;
+	padding-right: 40px;
+	padding-left: 10px;
+	margin-top: 50px;
+	background-color: #3333;
+	overflow: auto;
+}
+
+#contatti h3{
+	font-family: fantasy;
+}
+
+
+.info{
+	width: 75%;
+	height: 43%;
+	
+	background-color: #3333;
+	padding: 5px;
+	color: black;
+	box-sizing: border-box;
+	border: 2px black solid;
+	margin-left: 10px;
+	overflow: auto;
+
+
+}
+	
+
+.info h3{
+	font-family: fantasy;
+	margin: 10px;
+	color:black;
+    }
+
+
+.obbiettivi{
+	width: 99%;
+	height: 25%;
+	background-color: #3333;
+	padding: 5px;
+	color: black;
+	box-sizing: border-box;
+	border: 2px black solid;
+	margin-top: 10px;
+	margin-left: 10px;
+	overflow: auto;
+}
+
+.obbiettivi h3{
+	font-family: fantasy;
+	margin: 10px;
+	color:black;
+
+}
+#end
+	{
+	text-align: center;
+	margin: 10px;
+	position: relative;
+	float: bottom;
+	bottom: 10px
+	margin-top: 20px;
+}
